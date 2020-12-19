@@ -1,0 +1,157 @@
+{
+  "main": {
+    "name": "Kyle Brazier",
+    "occupation": "Full Stack Developer",
+    "description": "Let's Build a Project Together!",
+    "image": "profPicKyle.png",
+    "bio": "My name is Kyle, I'm a Full Stack Developer. Currently, I'm working at Good Guy Vapes in the Northern NJ Area!",
+    "contactmessage": "Get in touch with me to receive further details, let's start a project!",
+    "email": "kylebrazier@gmail.com",
+    "phone": "201-123-4567",
+    "address": {
+      "street": "123 Fake Street",
+      "city": "Northern NJ",
+      "state": "NJ",
+      "zip": "07000"
+    },
+    "website": "./images/ResumeKyleBrazier-2020-08-17.pdf",
+    "resumedownload": "./images/ResumeKyleBrazier-2020-08-17.pdf",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/ksbrazier",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/ksbrazier",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/ksbrazier",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "http://github.com/kbrazier2",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "15+ years experience in the workforce has shaped me into the person I am today. Paired with the necessary skillset, this combination has prepared me more ways than I could imagine.",
+    "education": [
+      {
+        "school": "State University of New Jersey Rutgers",
+        "degree": "Certificate of Completion Center for Continuing Professional Development",
+        "graduated": "December 2020",
+        "description": "Rutgers Coding Bootcamp"
+      },
+      {
+        "school": "State University of New York at Buffalo",
+        "degree": "Bachelor of Science in Business Administration - Marketing",
+        "graduated": "June 2012",
+        "description": ""
+      }
+    ],
+    "work": [
+      {
+        "company": "Good Guy Vapes",
+        "title": "General Manager",
+        "years": "August 2020 - Present",
+        "description": "Helping those in need of cigarette alternatives."
+      },
+      {
+        "company": "GameStop",
+        "title": "Store Leader",
+        "years": "October 2016 - August 2020",
+        "description": "Exceeding Sales and Profit by making Service matter in the Retail Video Game Industry."
+      },
+      {
+        "company": "Advanced International Freight",
+        "title": "Freight Forwarder / Import Specialist",
+        "years": "January 2015 - October 2016",
+        "description": "International / Domestic Transportation of Goods and Services."
+      },
+      {
+        "company": "Tea Leaf Cafe",
+        "title": "General Manager",
+        "years": "August 2012 - January 2015",
+        "description": "High Quality Asian Fusion Cuisine specializing in Boba Tea Refreshments."
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "80%"
+      },
+      {
+        "name": "CSS",
+        "level": "100%"
+      },
+      {
+        "name": "Git",
+        "level": "60%"
+      },
+      {
+        "name": "MongoDB",
+        "level": "80%"
+      },
+      {
+        "name": "HTML5",
+        "level": "100%"
+      },
+      {
+        "name": "Client/Public Relations",
+        "level": "100%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "What Are We Making Today?",
+        "category": "Meal / Drink Application built with HTML, CSS, JS",
+        "image": "mealDrink.png",
+        "url": "https://bwaycarl.github.io/Project1-Meal-and-Drink-app/"
+      },
+      {
+        "title": "QuarantineLean",
+        "category": "Weekly Meal Plan Application built with MySQL, Node, Express",
+        "image": "quarantineLean.png",
+        "url": "https://nameless-brook-84052.herokuapp.com/"
+      },
+      {
+        "title": "TravidWallet",
+        "category": "Covid Travel Application built with MySQL, ReactJS",
+        "image": "travidWallet.PNG",
+        "url": "https://still-waters-92313.herokuapp.com/"
+      },
+      {
+        "title": "Kyle and Jenny's Wedding",
+        "category": "Wedding Website built with HTML, CSS, JS",
+        "image": "wedding.PNG",
+        "url": "https://kbrazier2.github.io/Kennys_Kwedding_07242021/"
+      },
+      {
+        "title": "Beginner Portfolio",
+        "category": "Portfolio built with HTML, CSS, JS",
+        "image": "beginnerPortfolio.png",
+        "url": "https://kbrazier2.github.io/Kupdated_Kortfolio_7_08162020/"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
+        "user": "Sonny S."
+      },
+      {
+        "text": "'How essential to this establishment is Kyle? Would they be in trouble if I took him for myself?' 'Kyle is essential wherever he goes'",
+        "user": "Matt R. && Ben L."
+      }
+    ]
+  }
+}
